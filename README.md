@@ -1,2 +1,2 @@
-# arshsinghphd.github.io
+# arshsinghphd.com
 My personal website.
